@@ -1,0 +1,1 @@
+web: python3 SangMetainfo_bot.py
